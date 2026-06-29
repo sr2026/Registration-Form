@@ -45,6 +45,7 @@ A modern and responsive **Multi-Step Registration Form** built with **React.js**
 ### Step 5 – Review
 - Review all entered information before submission.
 
+---
 
 ## 🛠️ Built With
 
@@ -53,6 +54,8 @@ A modern and responsive **Multi-Step Registration Form** built with **React.js**
 - CSS3
 - React Toastify
 - React Icons
+
+---
 
 ## 📁 Project Structure
 
@@ -75,7 +78,9 @@ src
 ├── App.css
 ├── main.jsx
 └── index.css
+```
 
+---
 
 ## 💡 Concepts Used
 
@@ -90,10 +95,20 @@ src
 - Reusable Components
 - Responsive Design
 
+## 🎯 Learning Outcomes
+
+This project demonstrates:
+
+- Building reusable React components
+- Managing complex form state
+- Creating multi-step workflows
+- Implementing client-side validation
+- Designing responsive user interfaces
+- Organizing React projects using reusable architecture
+
 
 If you found this project useful, feel free to ⭐ the repository.
 
-
-<img width="397" height="416" alt="Screenshot 2026-06-29 194937" src="https://github.com/user-attachments/assets/9420daeb-38d7-4154-862d-cb05a61b5c70" />
+<img width="397" height="416" alt="Screenshot 2026-06-29 194937" src="https://github.com/user-attachments/assets/4a5a2de3-615b-4ada-8dab-5d2b85a63f6c" />
 
 
