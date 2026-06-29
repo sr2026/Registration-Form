@@ -1,0 +1,94 @@
+
+.personal-details {
+  width: 100%;
+}
+
+.personal-details h2 {
+  font-size: 28px;
+  font-weight: 700;
+  color: #1e293b;
+  margin-bottom: 8px;
+}
+
+.personal-details p {
+  font-size: 15px;
+  color: #64748b;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.personal-details .input-group {
+  margin-bottom: 22px;
+}
+
+.personal-details label {
+  display: block;
+  margin-bottom: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #334155;
+}
+
+@media (max-width:768px) {
+
+  .personal-details h2 {
+    font-size: 24px;
+  }
+
+}
+
+@media (max-width:480px) {
+
+  .personal-details h2 {
+    font-size: 22px;
+  }
+
+  .personal-details p {
+    font-size: 14px;
+  }
+
+}
+
+.page-title{
+    display:flex;
+    align-items:center;
+    gap:18px;
+    margin-bottom:30px;
+}
+
+.page-icon{
+
+    width:60px;
+    height:60px;
+
+    border-radius:15px;
+
+    background:#2563eb;
+
+    color:white;
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+    font-size:26px;
+
+    box-shadow:0 10px 25px rgba(37,99,235,.25);
+
+}
+
+.page-title h2{
+
+    margin:0;
+
+}
+
+.page-title p{
+
+    margin-top:5px;
+
+    margin-bottom:0;
+
+}
